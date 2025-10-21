@@ -1,4 +1,4 @@
-Maternal Health Indicator with 91% accuracy.
+Maternal Health Predictor with 91% accuracy and Dashboard-style UI.
 
 To run: 
 
